@@ -1,9 +1,9 @@
 {
-    "name": "webkompanen/mijntreinreis",
+    "name": "webkompanen/mijntreinreisplanner",
     "description": "Routeplanner voor de trein van station tot station",
     "autoload": {
         "psr-4": {
-            "Webkompanen\\Mijntreinreis\\": "src/"
+            "Webkompanen\\Mijntreinreisplanner\\": "src/"
         },
         "files": [
             "src/helpers.php"

@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Webkompanen\\Mijntreinreis\\' => array($baseDir . '/src'),
+    'Webkompanen\\Mijntreinreisplanner\\' => array($baseDir . '/src'),
 );
