@@ -1,5 +1,5 @@
 <?php
-    namespace Webkompanen\Mijntreinreis;
+    namespace Webkompanen\Mijntreinreisplanner;
 
     class ClassName{
         
